@@ -1,2 +1,3 @@
-Colin Dean
-Brennan Adams
+#  Project Team Members:
+- Colin Dean
+- Brennan Adams
