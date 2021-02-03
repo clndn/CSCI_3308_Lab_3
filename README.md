@@ -1,4 +1,3 @@
-Sam_test
 # Group Names
 Colin Dean
 Brennan Adams
