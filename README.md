@@ -1,5 +1,7 @@
-#  Project Team Members:
+# Group Names
 - Colin Dean
 - Brennan Adams
-
-- minor change
+- Andrew Campbell
+- Sam Siemer
+- Jason Barnick
+- Bhavi Patel
